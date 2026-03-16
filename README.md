@@ -88,6 +88,7 @@ Screen-time breaks
 Adapts based on user preferences
 Example: If the user likes yoga, tips include stretching or breathing exercises.
 ## Flowchart:
+
 <img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ec35081d-755f-4346-be81-61c8120e8f12" />
 
 ## ✅Python Code – Simple CLI Productivity Assistant
